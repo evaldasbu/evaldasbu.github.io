@@ -23,10 +23,11 @@
 
       <div class="footer-col footer-col-2">
        <!-- {%- include social.html -%} -->
+	   {{- site.description | escape -}}
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p><!-- {{- site.description | escape -}}--></p>
       </div>
     </div>
 
