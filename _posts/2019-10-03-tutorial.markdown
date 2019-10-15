@@ -16,4 +16,4 @@ As for now you can get help on discord: https://discord.gg/xF65E9P<br>
 If anyone has a problem crosshair not returning to original position there is an easy fix for that.<br>
 Go to Character=>Event Graph (Blueprint) and there you should find "Set Recoil".<br>
 Set it to TRUE.<br>
-<img src="https://imgur.com/a/R6bkqFX">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/R6bkqFX"><a href="//imgur.com/a/R6bkqFX"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
