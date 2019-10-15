@@ -11,4 +11,4 @@ Only after you have started the widget you should select the weapon you want to 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4cTF2_rcwKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 More tutorials may be put here as requested.<br>
-Contact on discord: https://discord.gg/xF65E9P
+As for now you can get help on discord: https://discord.gg/xF65E9P
