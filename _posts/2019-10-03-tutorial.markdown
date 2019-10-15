@@ -5,4 +5,9 @@ date:   2019-10-16 23:59:59 +0300
 categories: tutorials
 permalink: /tutorial/
 ---
+To use utility just simply make existing examples duplicate then run utility widget.
+Only after you have started the widget you should select the weapon you want to modify in the level editor.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4cTF2_rcwKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+More tutorials may be put here as requested.
