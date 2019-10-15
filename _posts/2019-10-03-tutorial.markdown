@@ -12,3 +12,8 @@ Only after you have started the widget you should select the weapon you want to 
 <br>
 More tutorials may be put here as requested.<br>
 As for now you can get help on discord: https://discord.gg/xF65E9P
+
+If anyone encountered crosshair not returning to original position there is an easy fix for that.<br>
+Go to Character=>Event Graph and there you should find "Set Recoil" at fire selected weapon.<br>
+Set it to TRUE.<br>
+<img src="https://imgur.com/a/R6bkqFX">
