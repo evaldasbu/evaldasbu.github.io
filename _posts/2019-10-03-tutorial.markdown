@@ -5,7 +5,7 @@ date:   2020-05-06 00:00:00 +0300
 categories: tutorials
 permalink: /tutorial/
 ---
-UPDATE: If you encounter a problem when your characted flips over while aiming at the sky and shooting there is a quick fix.
+UPDATE: If you encounter a problem when your character flips over while aiming at the sky and shooting there is a quick fix.
 Just uncheck this at "Character>Full Auto" Blueprint.
 
 <a href="https://imgur.com/GKDKwoo"><img src="https://i.imgur.com/GKDKwoo.png" title="source: imgur.com" /></a>
