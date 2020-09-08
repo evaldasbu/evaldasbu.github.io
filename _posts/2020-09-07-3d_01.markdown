@@ -20,7 +20,7 @@ In my luck there was an engine update and new graphical utility was included whi
 In the other words any spray pattern you could imagine.
 <p>You can check it out <a href="https://www.unrealengine.com/marketplace/en-US/product/spray-pattern-generator-utility">here!</a></p>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/04hcySQ"><a href="//imgur.com/a/04hcySQ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://imgur.com/TWPUOKp"><img src="https://i.imgur.com/TWPUOKp.png" title="source: imgur.com" /></a>
 
 <h4>3. Assets</h4>
 <p>In my spare time I set my goal to make more 3D models which I can later use in UE4 or Unity for future projects.</p>
