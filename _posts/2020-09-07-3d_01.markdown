@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Progress so far"
+date:   2020-09-06 00:00:00 +0300
+categories: 3d
+permalink: /3d_01/
+---
+
+<h4>1. Unreal Engine 4</h4>
+<p>First time I got my hands on UE4 I had to try and make simple level with custom assets, test out how AI works and make procedural materials.</p>
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.515%;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://streamable.com/e/105bym" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p>In this example we can see that AI follows player until AI has been spotted by player. Then it waits for player to get behind cover and tries to find where did the player go. In failure to find player behind cover AI would start patrolling last waypoint it made. For following player and determing if player has seen AI there was also sphere trigger used besides line trace.</p>
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.515%;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://streamable.com/e/wqtrd1" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Here we can see how we can adjust settings on procedural material instance to get different results in UE4 using Substance Designer and plugins.</p>
+<p>To try out the game demo you can download it from <a href="https://mega.nz/file/ckAwkapZ#w3GLAFqJoSgtSZsM_3f13S8pmIU3_Owj1RAmWlSTaYc">here!</a></p>
+<h4>2. Unreal Marketplace</h4>
+To take things further I made content for the marketplace. 
+There was one thing missing from marketplace that I got in mind and it was spray and recoil like in CSGO.
+In my luck there was an engine update and new graphical utility was included which made making this thing seem possible.
+In the other words any spray pattern you could imagine.
+<p>You can check it out <a href="https://www.unrealengine.com/marketplace/en-US/product/spray-pattern-generator-utility">here!</a></p>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/04hcySQ" data-context="false"><a href="//imgur.com/a/04hcySQ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<h4>3. Assets</h4>
+<p>In my spare time I set my goal to make more 3D models which I can later use in UE4 or Unity for future projects.</p>
+<!-- <div class="sketchfab-embed-wrapper"><iframe title="A 3D model" src="https://sketchfab.com/models/f448eb91575d408ca457ed36a52f1491/embed?autospin=0.2&amp;autostart=1&amp;preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" width="640" height="480" frameborder="0"></iframe>
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;"><a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/3d-models/arf-20-mk-i-f448eb91575d408ca457ed36a52f1491?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup" target="_blank" rel="noopener">ARF-20 MK I</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/evaldas.budreckis?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup" target="_blank" rel="noopener">evaldas.budreckis</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup" target="_blank" rel="noopener">Sketchfab</a></p>
+</div> -->
