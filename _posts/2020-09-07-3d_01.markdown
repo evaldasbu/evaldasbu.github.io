@@ -8,9 +8,9 @@ permalink: /progress_01/
 
 <h4>1. Unreal Engine 4</h4>
 <p>First time I got my hands on UE4 I had to try and make simple level with custom assets, test out how AI works and make procedural materials.</p>
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.515%;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://streamable.com/e/105bym" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p><div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.515%;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://streamable.com/e/105bym" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></p>
 <p>In this example we can see that AI follows player until AI has been spotted by player. Then it waits for player to get behind cover and tries to find where did the player go. In failure to find player behind cover AI would start patrolling last waypoint it made. For following player and determing if player has seen AI there was also sphere trigger used besides line trace.</p>
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.515%;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://streamable.com/e/wqtrd1" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p><div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.515%;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://streamable.com/e/wqtrd1" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></p>
 <p>Here we can see how we can adjust settings on procedural material instance to get different results in UE4 using Substance Designer and plugins.</p>
 <p>To try out the game demo you can download it from <a href="https://mega.nz/file/ckAwkapZ#w3GLAFqJoSgtSZsM_3f13S8pmIU3_Owj1RAmWlSTaYc">here!</a></p>
 <h4>2. Unreal Marketplace</h4>
