@@ -6,14 +6,7 @@ categories: progress
 permalink: /progress/
 ---
 
-<h4>1. Unreal Engine 4</h4>
-<p>First time I got my hands on UE4 I had to try and make simple level with custom assets, test out how AI works and make procedural materials.</p>
-<p><div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.515%;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://streamable.com/e/105bym" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></p>
-<p>In this example we can see that AI follows player until AI has been spotted by player. Then it waits for player to get behind cover and tries to find where did the player go. In failure to find player behind cover AI would start patrolling last waypoint it made. For following player and determing if player has seen AI there was also sphere trigger used besides line trace.</p>
-<p><div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.515%;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://streamable.com/e/wqtrd1" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></p>
-<p>Here we can see how we can adjust settings on procedural material instance to get different results in UE4 using Substance Designer and plugins.</p>
-<p>To try out the game demo you can download it from <a href="https://mega.nz/file/ckAwkapZ#w3GLAFqJoSgtSZsM_3f13S8pmIU3_Owj1RAmWlSTaYc">here!</a></p>
-<h4>2. Unreal Marketplace</h4>
+<h4>1. Unreal Marketplace</h4>
 To take things further I made content for the marketplace. 
 There was one thing missing from marketplace that I got in mind and it was spray and recoil like in CSGO.
 In my luck there was an engine update and new graphical utility was included which made making this thing seem possible.
@@ -31,7 +24,7 @@ In the other words any spray pattern you could imagine.
 </p>
 
 
-<h4>3. Assets</h4>
+<h4>2. Assets</h4>
 <p>In my spare time I set my goal to make more 3D models which I can later use in UE4 or Unity for future projects.</p>
 
 <p>
@@ -49,7 +42,7 @@ In the other words any spray pattern you could imagine.
   <a href="https://imgur.com/jRXKiUU"><img src="https://i.imgur.com/jRXKiUU.png" title="source: imgur.com" /></a>
 </p>
 
-<h4>4. Unity 3D</h4>
+<h4>3. Unity 3D</h4>
 
 <p>
   In 2017 I have released free game on Android on Google Play. It used accelometer controls and the goal of the game was to gather as many bottles in given time. It got several thousand downloads.
@@ -67,7 +60,7 @@ In the other words any spray pattern you could imagine.
   <a href="https://imgur.com/enxVKAi"><img src="https://i.imgur.com/enxVKAi.png" title="source: imgur.com" /></a>
 </p>
 
-<h4>5. What we missed and what's next?</h4>
+<h4>4. What we missed and what's next?</h4>
 <p>
   Many things were done, some gone, some abandoned and forgotten. But there are way more and better things in the making. Hope You liked it!
 </p>
