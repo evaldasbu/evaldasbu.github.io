@@ -7,7 +7,7 @@ permalink: /progress/
 ---
 
 <h4>1. Unreal Marketplace</h4>
-To take things further I made content for the marketplace. 
+To start off I made content for the marketplace. 
 There was one thing missing from marketplace that I got in mind and it was spray and recoil like in CSGO.
 In my luck there was an engine update and new graphical utility was included which made making this thing seem possible.
 In the other words any spray pattern you could imagine.
