@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This website is meant for tutorials, blueprints and stuff I make.
+This website is meant for the stuff I make.
 You can contact me at evaldas.budreckis@gmail.com
