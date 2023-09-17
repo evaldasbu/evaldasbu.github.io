@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Some stuff"
+date:   2020-09-06 00:00:00 +0300
+categories: progress
+permalink: /progress/
+---
+
+<h4>1. Unreal Marketplace</h4>
+To start off I made content for the marketplace. 
+There was one thing missing from marketplace that I got in mind and it was spray and recoil like in CSGO.
+In my luck there was an engine update and new graphical utility was included which made making this thing seem possible.
+In the other words any spray pattern you could imagine.
+<p>You can check it out <a href="https://www.unrealengine.com/marketplace/en-US/product/spray-pattern-generator-utility">here!</a></p>
+
+<p><a href="https://imgur.com/TWPUOKp"><img src="https://i.imgur.com/TWPUOKp.png" title="source: imgur.com" /></a></p>
+<p><a href="https://imgur.com/ahLN37i"><img src="https://i.imgur.com/ahLN37i.png" title="source: imgur.com" /></a></p>
+<p><a href="https://imgur.com/2CZ4nBF"><img src="https://i.imgur.com/2CZ4nBF.png" title="source: imgur.com" /></a></p>
+<p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SQzS2Zd8x9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4cTF2_rcwKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
+<h4>2. Assets</h4>
+<p>In my spare time I set my goal to make more 3D models which I can later use in UE4 or Unity for future projects.</p>
+
+<p>
+ Some examples: 
+</p>
+<p>
+<div class="sketchfab-embed-wrapper"><iframe title="A 3D model" src="https://sketchfab.com/models/f448eb91575d408ca457ed36a52f1491/embed?autospin=0.2&amp;autostart=1&amp;preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" width="640" height="480" frameborder="0"></iframe>
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;"><a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/3d-models/arf-20-mk-i-f448eb91575d408ca457ed36a52f1491?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup" target="_blank" rel="noopener">ARF-20 MK I</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/evaldas.budreckis?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup" target="_blank" rel="noopener">evaldas.budreckis</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_medium=embed&amp;utm_source=website&amp;utm_campaign=share-popup" target="_blank" rel="noopener">Sketchfab</a></p>
+</div>
+</p>
+<p>
+  <a href="https://imgur.com/0YDunVO"><img src="https://i.imgur.com/0YDunVO.png" title="source: imgur.com" /></a>
+</p>
+<p>
+  <a href="https://imgur.com/jRXKiUU"><img src="https://i.imgur.com/jRXKiUU.png" title="source: imgur.com" /></a>
+</p>
+
+<h4>3. Unity 3D</h4>
+
+<p>
+  In 2017 I have released free game on Android on Google Play. It used accelometer controls and the goal of the game was to gather as many bottles in given time. It got several thousand downloads.
+</p>
+<p>
+  Sadly there were changes in Google Play and it doesn't allow apps which support older devices. Everything would have been alright if my HDD haven't broken and taken all of the source code with it.
+</p>
+<p>
+  Here are some screenshots of game listing in Google Play.
+</p>
+<p>
+  <a href="https://imgur.com/jSrWNpw"><img src="https://i.imgur.com/jSrWNpw.png" title="source: imgur.com" /></a>
+</p>
+<p>
+  <a href="https://imgur.com/enxVKAi"><img src="https://i.imgur.com/enxVKAi.png" title="source: imgur.com" /></a>
+</p>
+
+<h4>4. What we missed and what's next?</h4>
+<p>
+  Many things were done, some gone, some abandoned and forgotten. But there are way more and better things in the making. Hope You liked it!
+</p>
+<p>
+  evaldas.budreckis@gmail.com
+</p>
