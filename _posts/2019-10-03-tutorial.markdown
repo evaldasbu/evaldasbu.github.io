@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutorials/Fixes"
+title:  "Spray Pattern Generator Utility for Unreal - Tutorial/Fix"
 date:   2020-05-06 00:00:00 +0300
 categories: tutorials
 permalink: /tutorial/
