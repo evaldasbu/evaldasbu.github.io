@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Some stuff"
-date:   2020-09-06 00:00:00 +0300
-categories: progress
-permalink: /progress/
+title:  "Spray Pattern Generator for Unity"
+date:   2023-09-17 00:00:00 +0300
+categories: Unity
+permalink: /unity/
 ---
 
-<h4>1. Unreal Marketplace</h4>
+<h4>Unity</h4>
 To start off I made content for the marketplace. 
 There was one thing missing from marketplace that I got in mind and it was spray and recoil like in CSGO.
 In my luck there was an engine update and new graphical utility was included which made making this thing seem possible.
