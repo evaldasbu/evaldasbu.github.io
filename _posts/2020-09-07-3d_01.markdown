@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Progress so far"
+title:  "Some stuff"
 date:   2020-09-06 00:00:00 +0300
 categories: progress
 permalink: /progress/
