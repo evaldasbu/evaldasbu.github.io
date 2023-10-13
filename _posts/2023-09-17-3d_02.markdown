@@ -8,7 +8,7 @@ permalink: /unity/
 
 <p>You can check it out on the Asset Store <a href="https://assetstore.unity.com/packages/templates/systems/spray-pattern-generator-266009">here!</a></p><br>
 <p>TUTORIAL</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YPk4qQXghsA?si=DN4WgWSYLVt_q6Hs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YPk4qQXghsA?si=DN4WgWSYLVt_q6Hs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>EXAMPLE</p>
 <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/xPEmaJfDOT0?si=ChF1GV_xbf5PF9iJ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
